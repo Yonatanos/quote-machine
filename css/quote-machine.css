@@ -1,0 +1,45 @@
+
+div#container {
+  width: 40%;
+  border: 1px solid black;
+  margin: 100px auto auto auto;
+  background-color: white;
+}
+div#quote_machine {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+div#author {
+  text-align: right;
+  margin-right: 20px;
+}
+i.fa {
+  margin: 20px 0 0 0;
+}
+#quote {
+  padding: 0;
+  margin-top: 0;
+  text-indent: 1em;
+}
+#author {
+  margin-bottom: 1em;
+  font-style: italic;
+}
+button {
+  color: white;
+  font-size: 1.3em;
+  margin: 0 0 10px 20px;
+ width: 10%;
+  height: 35px;
+}
+button#new_quote {
+  float: right;
+  width: 20%;
+  margin-right: 20px;
+  font-size: .9em;
+}
+p#by {
+  text-align: center;
+  color: white;
+  font-weight: 300;
+}
